@@ -1,0 +1,194 @@
+id_producto,producto,categoria,sucursal,proveedor,stock,stock_minimo,costo_unitario,precio_venta,ultimo_reabastecimiento
+P1001,"Televisor 43""",Electrónica,San Salvador,Comercial Centroamericana,140,21,290.61,364.6,2026-07-16
+P1001,"Televisor 43""",Electrónica,San Miguel,Comercial Centroamericana,88,18,290.61,364.6,2026-07-27
+P1001,"Televisor 43""",Electrónica,La Libertad,Comercial Centroamericana,86,19,290.61,364.6,2026-06-08
+P1002,Audífonos Bluetooth,Electrónica,San Salvador,Tecno Import SV,76,11,25.38,33.5,2026-07-15
+P1002,Audífonos Bluetooth,Electrónica,Santa Ana,Tecno Import SV,104,21,25.38,33.5,2026-08-12
+P1002,Audífonos Bluetooth,Electrónica,San Miguel,Tecno Import SV,100,20,25.38,33.5,2026-06-07
+P1002,Audífonos Bluetooth,Electrónica,Sonsonate,Tecno Import SV,62,17,25.38,33.5,2026-09-19
+P1003,Parlante portátil,Electrónica,San Salvador,Grupo Maya,122,18,27.4,32.54,2026-06-05
+P1003,Parlante portátil,Electrónica,San Miguel,Grupo Maya,84,17,27.4,32.54,2026-09-13
+P1003,Parlante portátil,Electrónica,La Libertad,Grupo Maya,87,19,27.4,32.54,2026-08-28
+P1003,Parlante portátil,Electrónica,Sonsonate,Grupo Maya,21,6,27.4,32.54,2026-06-25
+P1004,Cargador USB-C,Electrónica,San Salvador,Distribuidora Cuscatlán,136,20,7.02,8.81,2026-07-05
+P1004,Cargador USB-C,Electrónica,Santa Ana,Distribuidora Cuscatlán,56,11,7.02,8.81,2026-06-07
+P1004,Cargador USB-C,Electrónica,San Miguel,Distribuidora Cuscatlán,98,20,7.02,8.81,2026-07-04
+P1004,Cargador USB-C,Electrónica,La Libertad,Distribuidora Cuscatlán,1,20,7.02,8.81,2026-07-17
+P1004,Cargador USB-C,Electrónica,Sonsonate,Distribuidora Cuscatlán,71,19,7.02,8.81,2026-08-21
+P1005,"Tablet 10""",Electrónica,San Salvador,Tecno Import SV,16,5,160.27,201.62,2026-10-01
+P1005,"Tablet 10""",Electrónica,Santa Ana,Tecno Import SV,23,5,160.27,201.62,2026-09-17
+P1005,"Tablet 10""",Electrónica,San Miguel,Tecno Import SV,16,5,160.27,201.62,2026-08-27
+P1005,"Tablet 10""",Electrónica,La Libertad,Tecno Import SV,83,19,160.27,201.62,2026-09-27
+P1005,"Tablet 10""",Electrónica,Sonsonate,Tecno Import SV,56,15,160.27,201.62,2026-08-02
+P1006,Smartwatch,Electrónica,San Salvador,Distribuidora Cuscatlán,1,5,28.58,35.71,2026-06-30
+P1006,Smartwatch,Electrónica,Santa Ana,Distribuidora Cuscatlán,110,22,28.58,35.71,2026-06-08
+P1006,Smartwatch,Electrónica,San Miguel,Distribuidora Cuscatlán,40,8,28.58,35.71,2026-08-04
+P1006,Smartwatch,Electrónica,La Libertad,Distribuidora Cuscatlán,47,11,28.58,35.71,2026-06-18
+P1006,Smartwatch,Electrónica,Sonsonate,Distribuidora Cuscatlán,0,11,28.58,35.71,2026-06-05
+P1007,Cámara web HD,Electrónica,San Salvador,Distribuidora Cuscatlán,145,22,24.45,30.77,2026-06-20
+P1007,Cámara web HD,Electrónica,Santa Ana,Distribuidora Cuscatlán,64,13,24.45,30.77,2026-08-07
+P1007,Cámara web HD,Electrónica,San Miguel,Distribuidora Cuscatlán,34,7,24.45,30.77,2026-08-23
+P1007,Cámara web HD,Electrónica,La Libertad,Distribuidora Cuscatlán,36,8,24.45,30.77,2026-06-06
+P1007,Cámara web HD,Electrónica,Sonsonate,Distribuidora Cuscatlán,33,9,24.45,30.77,2026-09-02
+P1008,Licuadora,Electrodomésticos,Santa Ana,Suministros La Unión,37,7,28.99,36.18,2026-08-13
+P1008,Licuadora,Electrodomésticos,San Miguel,Suministros La Unión,88,18,28.99,36.18,2026-09-23
+P1008,Licuadora,Electrodomésticos,La Libertad,Suministros La Unión,19,5,28.99,36.18,2026-06-28
+P1008,Licuadora,Electrodomésticos,Sonsonate,Suministros La Unión,44,12,28.99,36.18,2026-07-16
+P1009,Cafetera,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,124,18,18.6,25.19,2026-09-21
+P1009,Cafetera,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,23,5,18.6,25.19,2026-09-05
+P1009,Cafetera,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,73,15,18.6,25.19,2026-07-27
+P1009,Cafetera,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,25,6,18.6,25.19,2026-07-29
+P1009,Cafetera,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,47,13,18.6,25.19,2026-06-27
+P1010,Plancha de vapor,Electrodomésticos,San Salvador,Importadora del Pacífico,149,22,18.81,23.15,2026-08-31
+P1010,Plancha de vapor,Electrodomésticos,Santa Ana,Importadora del Pacífico,41,8,18.81,23.15,2026-06-13
+P1010,Plancha de vapor,Electrodomésticos,San Miguel,Importadora del Pacífico,10,5,18.81,23.15,2026-08-09
+P1010,Plancha de vapor,Electrodomésticos,La Libertad,Importadora del Pacífico,34,8,18.81,23.15,2026-06-25
+P1011,Microondas,Electrodomésticos,San Salvador,Comercial Centroamericana,153,23,88.59,113.86,2026-09-03
+P1011,Microondas,Electrodomésticos,Santa Ana,Comercial Centroamericana,2,9,88.59,113.86,2026-09-27
+P1011,Microondas,Electrodomésticos,San Miguel,Comercial Centroamericana,100,20,88.59,113.86,2026-09-25
+P1011,Microondas,Electrodomésticos,La Libertad,Comercial Centroamericana,38,9,88.59,113.86,2026-08-18
+P1011,Microondas,Electrodomésticos,Sonsonate,Comercial Centroamericana,15,5,88.59,113.86,2026-06-09
+P1012,Ventilador de pie,Electrodomésticos,San Salvador,Importadora del Pacífico,27,5,32.54,43.55,2026-09-26
+P1012,Ventilador de pie,Electrodomésticos,Santa Ana,Importadora del Pacífico,23,5,32.54,43.55,2026-08-18
+P1012,Ventilador de pie,Electrodomésticos,San Miguel,Importadora del Pacífico,70,14,32.54,43.55,2026-09-18
+P1012,Ventilador de pie,Electrodomésticos,La Libertad,Importadora del Pacífico,27,6,32.54,43.55,2026-06-12
+P1012,Ventilador de pie,Electrodomésticos,Sonsonate,Importadora del Pacífico,85,23,32.54,43.55,2026-07-12
+P1013,Olla arrocera,Electrodomésticos,San Salvador,Tecno Import SV,17,5,28.98,35.63,2026-07-02
+P1013,Olla arrocera,Electrodomésticos,Santa Ana,Tecno Import SV,18,5,28.98,35.63,2026-07-08
+P1013,Olla arrocera,Electrodomésticos,San Miguel,Tecno Import SV,91,18,28.98,35.63,2026-07-15
+P1013,Olla arrocera,Electrodomésticos,La Libertad,Tecno Import SV,9,5,28.98,35.63,2026-07-01
+P1013,Olla arrocera,Electrodomésticos,Sonsonate,Tecno Import SV,70,19,28.98,35.63,2026-10-01
+P1014,Freidora de aire,Electrodomésticos,San Salvador,Distribuidora Cuscatlán,151,22,68.61,85.57,2026-06-20
+P1014,Freidora de aire,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,107,21,68.61,85.57,2026-07-05
+P1014,Freidora de aire,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,25,5,68.61,85.57,2026-07-05
+P1014,Freidora de aire,Electrodomésticos,La Libertad,Distribuidora Cuscatlán,35,8,68.61,85.57,2026-08-15
+P1015,Camisa casual,Ropa y Calzado,San Salvador,Importadora del Pacífico,36,5,8.51,12.28,2026-06-27
+P1015,Camisa casual,Ropa y Calzado,Santa Ana,Importadora del Pacífico,33,7,8.51,12.28,2026-08-17
+P1015,Camisa casual,Ropa y Calzado,San Miguel,Importadora del Pacífico,111,22,8.51,12.28,2026-09-26
+P1015,Camisa casual,Ropa y Calzado,La Libertad,Importadora del Pacífico,76,17,8.51,12.28,2026-06-15
+P1015,Camisa casual,Ropa y Calzado,Sonsonate,Importadora del Pacífico,12,5,8.51,12.28,2026-09-03
+P1016,Pantalón de lona,Ropa y Calzado,San Salvador,Grupo Maya,156,23,11.49,19.28,2026-09-19
+P1016,Pantalón de lona,Ropa y Calzado,Santa Ana,Grupo Maya,41,8,11.49,19.28,2026-07-19
+P1016,Pantalón de lona,Ropa y Calzado,San Miguel,Grupo Maya,5,23,11.49,19.28,2026-09-03
+P1016,Pantalón de lona,Ropa y Calzado,La Libertad,Grupo Maya,21,5,11.49,19.28,2026-06-21
+P1016,Pantalón de lona,Ropa y Calzado,Sonsonate,Grupo Maya,59,16,11.49,19.28,2026-08-09
+P1017,Zapatos deportivos,Ropa y Calzado,San Salvador,Importadora del Pacífico,151,22,44.16,69.72,2026-10-01
+P1017,Zapatos deportivos,Ropa y Calzado,Santa Ana,Importadora del Pacífico,102,20,44.16,69.72,2026-06-09
+P1017,Zapatos deportivos,Ropa y Calzado,San Miguel,Importadora del Pacífico,9,5,44.16,69.72,2026-08-01
+P1017,Zapatos deportivos,Ropa y Calzado,La Libertad,Importadora del Pacífico,40,9,44.16,69.72,2026-08-31
+P1017,Zapatos deportivos,Ropa y Calzado,Sonsonate,Importadora del Pacífico,50,13,44.16,69.72,2026-07-12
+P1018,Gorra,Ropa y Calzado,San Salvador,Suministros La Unión,74,11,3.65,5.52,2026-07-30
+P1018,Gorra,Ropa y Calzado,Santa Ana,Suministros La Unión,67,13,3.65,5.52,2026-09-28
+P1018,Gorra,Ropa y Calzado,San Miguel,Suministros La Unión,35,7,3.65,5.52,2026-07-02
+P1018,Gorra,Ropa y Calzado,La Libertad,Suministros La Unión,95,21,3.65,5.52,2026-08-14
+P1018,Gorra,Ropa y Calzado,Sonsonate,Suministros La Unión,11,5,3.65,5.52,2026-07-10
+P1019,Chumpa ligera,Ropa y Calzado,San Salvador,Suministros La Unión,149,22,16.97,24.49,2026-06-16
+P1019,Chumpa ligera,Ropa y Calzado,Santa Ana,Suministros La Unión,0,12,16.97,24.49,2026-07-20
+P1019,Chumpa ligera,Ropa y Calzado,San Miguel,Suministros La Unión,1,6,16.97,24.49,2026-07-13
+P1019,Chumpa ligera,Ropa y Calzado,La Libertad,Suministros La Unión,58,13,16.97,24.49,2026-09-01
+P1019,Chumpa ligera,Ropa y Calzado,Sonsonate,Suministros La Unión,63,17,16.97,24.49,2026-09-03
+P1020,Sandalias,Ropa y Calzado,San Salvador,Tecno Import SV,16,5,12.88,21.32,2026-08-13
+P1020,Sandalias,Ropa y Calzado,Santa Ana,Tecno Import SV,79,16,12.88,21.32,2026-06-21
+P1020,Sandalias,Ropa y Calzado,San Miguel,Tecno Import SV,71,14,12.88,21.32,2026-07-31
+P1020,Sandalias,Ropa y Calzado,La Libertad,Tecno Import SV,97,22,12.88,21.32,2026-08-21
+P1020,Sandalias,Ropa y Calzado,Sonsonate,Tecno Import SV,14,5,12.88,21.32,2026-06-30
+P1021,Uniforme escolar,Ropa y Calzado,Santa Ana,Grupo Maya,109,22,8.99,14.86,2026-06-21
+P1021,Uniforme escolar,Ropa y Calzado,San Miguel,Grupo Maya,77,15,8.99,14.86,2026-06-15
+P1021,Uniforme escolar,Ropa y Calzado,La Libertad,Grupo Maya,85,19,8.99,14.86,2026-08-27
+P1021,Uniforme escolar,Ropa y Calzado,Sonsonate,Grupo Maya,75,20,8.99,14.86,2026-07-08
+P1022,Juego de sábanas,Hogar,San Salvador,Comercial Centroamericana,75,11,15.67,21.41,2026-07-23
+P1022,Juego de sábanas,Hogar,Santa Ana,Comercial Centroamericana,61,12,15.67,21.41,2026-08-09
+P1022,Juego de sábanas,Hogar,San Miguel,Comercial Centroamericana,90,18,15.67,21.41,2026-08-15
+P1022,Juego de sábanas,Hogar,La Libertad,Comercial Centroamericana,39,9,15.67,21.41,2026-09-18
+P1023,Almohada,Hogar,San Salvador,Grupo Maya,59,9,8.5,12.07,2026-08-30
+P1023,Almohada,Hogar,Santa Ana,Grupo Maya,30,6,8.5,12.07,2026-07-28
+P1023,Almohada,Hogar,San Miguel,Grupo Maya,98,20,8.5,12.07,2026-06-17
+P1023,Almohada,Hogar,La Libertad,Grupo Maya,9,5,8.5,12.07,2026-06-20
+P1023,Almohada,Hogar,Sonsonate,Grupo Maya,22,6,8.5,12.07,2026-09-09
+P1024,Set de ollas,Hogar,San Salvador,Tecno Import SV,120,18,46.5,61.56,2026-07-12
+P1024,Set de ollas,Hogar,Santa Ana,Tecno Import SV,115,23,46.5,61.56,2026-09-21
+P1024,Set de ollas,Hogar,San Miguel,Tecno Import SV,115,23,46.5,61.56,2026-07-12
+P1024,Set de ollas,Hogar,La Libertad,Tecno Import SV,100,22,46.5,61.56,2026-08-21
+P1024,Set de ollas,Hogar,Sonsonate,Tecno Import SV,84,23,46.5,61.56,2026-08-09
+P1025,Cortinas,Hogar,San Salvador,Distribuidora Cuscatlán,95,14,12.16,16.33,2026-07-07
+P1025,Cortinas,Hogar,Santa Ana,Distribuidora Cuscatlán,89,18,12.16,16.33,2026-08-12
+P1025,Cortinas,Hogar,San Miguel,Distribuidora Cuscatlán,93,19,12.16,16.33,2026-06-27
+P1025,Cortinas,Hogar,Sonsonate,Distribuidora Cuscatlán,72,19,12.16,16.33,2026-07-29
+P1026,Alfombra,Hogar,San Salvador,Distribuidora Cuscatlán,41,6,26.45,37.15,2026-06-04
+P1026,Alfombra,Hogar,Santa Ana,Distribuidora Cuscatlán,83,17,26.45,37.15,2026-07-17
+P1026,Alfombra,Hogar,San Miguel,Distribuidora Cuscatlán,97,19,26.45,37.15,2026-08-27
+P1026,Alfombra,Hogar,La Libertad,Distribuidora Cuscatlán,43,10,26.45,37.15,2026-06-30
+P1027,Organizador plástico,Hogar,San Salvador,Distribuidora Cuscatlán,120,18,4.63,6.46,2026-08-14
+P1027,Organizador plástico,Hogar,Santa Ana,Distribuidora Cuscatlán,76,15,4.63,6.46,2026-07-29
+P1027,Organizador plástico,Hogar,La Libertad,Distribuidora Cuscatlán,54,12,4.63,6.46,2026-09-15
+P1027,Organizador plástico,Hogar,Sonsonate,Distribuidora Cuscatlán,28,8,4.63,6.46,2026-09-17
+P1028,Lámpara LED,Hogar,San Salvador,Suministros La Unión,91,14,4.98,7.21,2026-07-25
+P1028,Lámpara LED,Hogar,Santa Ana,Suministros La Unión,9,5,4.98,7.21,2026-09-09
+P1028,Lámpara LED,Hogar,San Miguel,Suministros La Unión,43,9,4.98,7.21,2026-06-04
+P1028,Lámpara LED,Hogar,La Libertad,Suministros La Unión,51,11,4.98,7.21,2026-06-21
+P1028,Lámpara LED,Hogar,Sonsonate,Suministros La Unión,38,10,4.98,7.21,2026-07-09
+P1029,Cuaderno universitario,Papelería,San Salvador,Suministros La Unión,110,16,1.08,1.68,2026-07-05
+P1029,Cuaderno universitario,Papelería,Santa Ana,Suministros La Unión,119,24,1.08,1.68,2026-07-22
+P1029,Cuaderno universitario,Papelería,San Miguel,Suministros La Unión,104,21,1.08,1.68,2026-09-24
+P1029,Cuaderno universitario,Papelería,La Libertad,Suministros La Unión,9,5,1.08,1.68,2026-08-15
+P1029,Cuaderno universitario,Papelería,Sonsonate,Suministros La Unión,6,5,1.08,1.68,2026-08-03
+P1030,Paquete de lapiceros,Papelería,San Salvador,Suministros La Unión,133,20,1.07,1.45,2026-06-14
+P1030,Paquete de lapiceros,Papelería,Santa Ana,Suministros La Unión,75,15,1.07,1.45,2026-09-05
+P1030,Paquete de lapiceros,Papelería,San Miguel,Suministros La Unión,82,16,1.07,1.45,2026-08-03
+P1030,Paquete de lapiceros,Papelería,La Libertad,Suministros La Unión,87,19,1.07,1.45,2026-08-21
+P1030,Paquete de lapiceros,Papelería,Sonsonate,Suministros La Unión,43,12,1.07,1.45,2026-09-15
+P1031,Mochila escolar,Papelería,San Salvador,Distribuidora Cuscatlán,93,14,7.5,11.07,2026-09-19
+P1031,Mochila escolar,Papelería,Santa Ana,Distribuidora Cuscatlán,78,16,7.5,11.07,2026-08-19
+P1031,Mochila escolar,Papelería,San Miguel,Distribuidora Cuscatlán,9,5,7.5,11.07,2026-09-22
+P1031,Mochila escolar,Papelería,Sonsonate,Distribuidora Cuscatlán,0,8,7.5,11.07,2026-09-23
+P1032,Calculadora,Papelería,San Salvador,Tecno Import SV,72,11,4.47,7.02,2026-08-20
+P1032,Calculadora,Papelería,Santa Ana,Tecno Import SV,27,5,4.47,7.02,2026-09-07
+P1032,Calculadora,Papelería,San Miguel,Tecno Import SV,68,14,4.47,7.02,2026-07-27
+P1032,Calculadora,Papelería,La Libertad,Tecno Import SV,85,19,4.47,7.02,2026-09-29
+P1033,Resma de papel,Papelería,San Salvador,Tecno Import SV,116,17,3.75,5.6,2026-08-26
+P1033,Resma de papel,Papelería,Santa Ana,Tecno Import SV,59,12,3.75,5.6,2026-08-08
+P1033,Resma de papel,Papelería,San Miguel,Tecno Import SV,64,13,3.75,5.6,2026-06-08
+P1033,Resma de papel,Papelería,La Libertad,Tecno Import SV,102,23,3.75,5.6,2026-07-17
+P1033,Resma de papel,Papelería,Sonsonate,Tecno Import SV,29,8,3.75,5.6,2026-06-18
+P1034,Marcadores,Papelería,San Salvador,Distribuidora Cuscatlán,71,11,3.09,4.49,2026-08-21
+P1034,Marcadores,Papelería,Santa Ana,Distribuidora Cuscatlán,111,22,3.09,4.49,2026-08-09
+P1034,Marcadores,Papelería,San Miguel,Distribuidora Cuscatlán,12,5,3.09,4.49,2026-08-12
+P1034,Marcadores,Papelería,La Libertad,Distribuidora Cuscatlán,42,9,3.09,4.49,2026-06-17
+P1034,Marcadores,Papelería,Sonsonate,Distribuidora Cuscatlán,53,14,3.09,4.49,2026-06-08
+P1035,Folder con gancho,Papelería,San Salvador,Comercial Centroamericana,93,14,0.49,0.76,2026-06-08
+P1035,Folder con gancho,Papelería,Santa Ana,Comercial Centroamericana,115,23,0.49,0.76,2026-07-03
+P1035,Folder con gancho,Papelería,San Miguel,Comercial Centroamericana,65,13,0.49,0.76,2026-08-02
+P1035,Folder con gancho,Papelería,La Libertad,Comercial Centroamericana,81,18,0.49,0.76,2026-07-29
+P1035,Folder con gancho,Papelería,Sonsonate,Comercial Centroamericana,49,13,0.49,0.76,2026-06-06
+P1036,Carro a control remoto,Juguetes,San Salvador,Distribuidora Cuscatlán,0,5,16.4,22.62,2026-08-28
+P1036,Carro a control remoto,Juguetes,Santa Ana,Distribuidora Cuscatlán,39,8,16.4,22.62,2026-08-21
+P1036,Carro a control remoto,Juguetes,San Miguel,Distribuidora Cuscatlán,4,5,16.4,22.62,2026-06-16
+P1036,Carro a control remoto,Juguetes,La Libertad,Distribuidora Cuscatlán,78,17,16.4,22.62,2026-08-16
+P1036,Carro a control remoto,Juguetes,Sonsonate,Distribuidora Cuscatlán,77,21,16.4,22.62,2026-09-03
+P1037,Muñeca,Juguetes,Santa Ana,Tecno Import SV,115,23,5.32,7.67,2026-07-26
+P1037,Muñeca,Juguetes,San Miguel,Tecno Import SV,24,5,5.32,7.67,2026-08-23
+P1037,Muñeca,Juguetes,La Libertad,Tecno Import SV,4,17,5.32,7.67,2026-06-17
+P1037,Muñeca,Juguetes,Sonsonate,Tecno Import SV,23,6,5.32,7.67,2026-06-14
+P1038,Rompecabezas,Juguetes,San Salvador,Suministros La Unión,159,24,4.16,6.49,2026-08-26
+P1038,Rompecabezas,Juguetes,San Miguel,Suministros La Unión,64,13,4.16,6.49,2026-07-30
+P1038,Rompecabezas,Juguetes,La Libertad,Suministros La Unión,52,12,4.16,6.49,2026-06-05
+P1038,Rompecabezas,Juguetes,Sonsonate,Suministros La Unión,45,12,4.16,6.49,2026-07-04
+P1039,Set de bloques,Juguetes,San Salvador,Comercial Centroamericana,105,16,10.34,16.3,2026-09-06
+P1039,Set de bloques,Juguetes,Santa Ana,Comercial Centroamericana,34,7,10.34,16.3,2026-07-23
+P1039,Set de bloques,Juguetes,San Miguel,Comercial Centroamericana,9,5,10.34,16.3,2026-07-19
+P1039,Set de bloques,Juguetes,La Libertad,Comercial Centroamericana,15,5,10.34,16.3,2026-07-15
+P1039,Set de bloques,Juguetes,Sonsonate,Comercial Centroamericana,39,11,10.34,16.3,2026-09-28
+P1040,Pelota,Juguetes,San Salvador,Grupo Maya,143,21,2.35,3.39,2026-08-27
+P1040,Pelota,Juguetes,Santa Ana,Grupo Maya,45,9,2.35,3.39,2026-06-21
+P1040,Pelota,Juguetes,San Miguel,Grupo Maya,49,10,2.35,3.39,2026-09-03
+P1040,Pelota,Juguetes,La Libertad,Grupo Maya,57,13,2.35,3.39,2026-08-27
+P1040,Pelota,Juguetes,Sonsonate,Grupo Maya,54,15,2.35,3.39,2026-08-24
+P1041,Juego de mesa,Juguetes,San Salvador,Comercial Centroamericana,105,16,8.57,12.42,2026-09-10
+P1041,Juego de mesa,Juguetes,Santa Ana,Comercial Centroamericana,78,16,8.57,12.42,2026-09-13
+P1041,Juego de mesa,Juguetes,San Miguel,Comercial Centroamericana,76,15,8.57,12.42,2026-08-21
+P1041,Juego de mesa,Juguetes,La Libertad,Comercial Centroamericana,99,22,8.57,12.42,2026-06-19
+P1041,Juego de mesa,Juguetes,Sonsonate,Comercial Centroamericana,40,11,8.57,12.42,2026-10-01
+P1042,Bicicleta infantil,Juguetes,San Salvador,Importadora del Pacífico,143,21,57.18,91.23,2026-08-29
+P1042,Bicicleta infantil,Juguetes,Santa Ana,Importadora del Pacífico,61,12,57.18,91.23,2026-09-24
+P1042,Bicicleta infantil,Juguetes,La Libertad,Importadora del Pacífico,53,12,57.18,91.23,2026-07-26
+P1042,Bicicleta infantil,Juguetes,Sonsonate,Importadora del Pacífico,78,21,57.18,91.23,2026-09-01
